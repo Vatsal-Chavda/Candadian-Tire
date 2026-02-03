@@ -4,8 +4,6 @@ I’m a Honours Business Degree student at Seneca Polytechnic (GPA: 3.68) with h
 
 Financial Analysis Portfolio
 
-Vatsal Chavda | Business Student | Toronto, ON
-
 This repository brings together three financial analysis projects I built independently to show how I approach credit decisions, investment analysis, and financial forecasting. Each project is structured the way I’ve seen real teams work: clear assumptions, clean models, and conclusions that actually mean something for decision-makers.
 
 Quick Look (If You’re Skimming)
