@@ -1,6 +1,6 @@
 About Me
 
-I’m a Honours Business Degree student at Seneca Polytechnic (GPA: 3.68) with hands-on experience in financial operations and analysis. I’m especially interested in commercial banking and financial analyst roles where strong analysis and clear thinking matter.
+I’m a Honours Business Degree student at Seneca Polytechnic with hands-on experience in financial operations and analysis. I’m especially interested in commercial banking and financial analyst roles where strong analysis and clear thinking matter.
 
 Financial Analysis Portfolio
 
