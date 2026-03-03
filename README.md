@@ -84,3 +84,23 @@ A Quick Note on Data
 
 These projects were created independently for learning and portfolio purposes. The credit and portfolio data is hypothetical, while the Canadian Tire model uses publicly available financial disclosures.
 
+Project 4: Bitcoin & Digital Assets — Financial Analysis
+File: Bitcoin_Digital_Assets_Analysis_Vatsal_Chavda.xlsx
+
+This project applies institutional-grade financial analysis frameworks to Bitcoin and the broader digital asset space. Rather than treating cryptocurrency as a speculative novelty, the analysis approaches it the same way a traditional finance professional would evaluate any asset class — through risk-adjusted return metrics, cross-asset correlation, network valuation signals, and regulatory accounting treatment.
+What I Looked At
+
+Risk & Return (2020–2024): Annualised return, volatility, Sharpe ratio, Sortino ratio, max drawdown, and annual performance benchmarked against the S&P 500, Nasdaq, and Gold
+Correlation Analysis: How Bitcoin's relationship with traditional asset classes has evolved — including how correlation with equities spiked during the 2022 macro sell-off
+On-Chain Metrics: MVRV ratio, NVT ratio, and Realised Cap — valuation tools unique to blockchain-based assets with no direct equivalent in traditional finance
+IFRS Accounting Simulation: How a financial institution accounts for a Bitcoin holding under IAS 38, IFRS 9, and IAS 2 — including the IASB's 2023 amendment requiring fair value measurement for crypto assets (effective January 2025)
+Regulatory Landscape: MiCA, Basel III crypto capital framework, OSFI guidance for Canadian institutions, and the FCA's crypto asset regime
+
+Key Results
+MetricBitcoinS&P 500GoldAnnualised Return (2020–24)62.4%14.2%8.3%Annualised Volatility68.2%18.0%13.5%Sharpe Ratio0.840.510.23Sortino Ratio1.210.730.31Max Drawdown-77.3%-24.5%-21.0%Correlation with Gold0.08——Correlation with Nasdaq0.52——
+Key Takeaway
+Bitcoin delivers significantly higher returns than traditional asset classes over multi-year periods, but at the cost of extreme volatility and drawdowns. Its low correlation with gold (0.08) weakly supports the digital gold thesis, while moderate correlation with the Nasdaq (0.52) confirms it behaves as a risk-on asset. On the accounting side, the IASB's 2023 amendment is a landmark shift — eliminating the hidden-gains problem created by the IAS 38 cost model and requiring crypto-native banks to reflect the true fair value of digital asset holdings on their balance sheet.
+
+A Quick Note on Data
+These projects were created independently for learning and portfolio purposes. The credit and portfolio data is hypothetical, while the Canadian Tire model uses publicly available financial disclosures. Bitcoin analysis uses market data from Yahoo Finance and CoinGecko's public API, and regulatory references from IASB, OSFI, and BIS publications.
+
