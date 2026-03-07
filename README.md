@@ -20,7 +20,7 @@ Finance & Banking: Credit analysis, financial modeling, forecasting, ratio analy
 Quantitative: Regression, time series, volatility, Sharpe ratio, CAGR
 Tools: Excel (advanced), Python, Power BI, SQL, Tableau
 
-Project 1: Commercial Credit Analysis (TD-Style)
+**Project 1: Commercial Credit Analysis (TD)**
 
 File: TD_Commercial_Credit_Analysis_FINAL.xlsx
 This project walks through how I would evaluate a $2.5M term loan for a mid-market manufacturing company. The goal wasn’t just to calculate ratios, but to decide whether the loan should be approved and how the risk should be managed.
@@ -41,7 +41,7 @@ I recommended approval with a moderate risk rating, supported by a covenant pack
 
 This file is fully built out with assumptions, formulas, and a structure similar to what you’d see in a commercial credit package.
 
-Project 2: Investment Portfolio Performance Analysis
+**Project 2: Investment Portfolio Performance Analysis**
 
 File: Portfolio_Analysis_Complete.xlsx
 
@@ -62,7 +62,7 @@ The takeaway: the portfolio delivered strong returns while staying relatively de
 
 All calculations tie back to a raw data sheet, so it’s easy to follow how each number was built.
 
-Project 3: Canadian Tire Revenue Forecasting
+**Project 3: Canadian Tire Revenue Forecasting**
 File: Canadian_Tire_Revenue_Forecast_DETAILED.xlsx
 This model is built like something you’d see in an FP&A or finance team. I used 12 quarters of Canadian Tire revenue data to understand trends, seasonality, and what future performance might look like.
 
@@ -84,7 +84,7 @@ A Quick Note on Data
 
 These projects were created independently for learning and portfolio purposes. The credit and portfolio data is hypothetical, while the Canadian Tire model uses publicly available financial disclosures.
 
-Project 4: Bitcoin & Digital Assets — Financial Analysis
+**Project 4: Bitcoin & Digital Assets — Financial Analysis**
 File: Bitcoin_Digital_Assets_Analysis_Vatsal_Chavda.xlsx
 
 This project applies institutional-grade financial analysis frameworks to Bitcoin and the broader digital asset space. Rather than treating cryptocurrency as a speculative novelty, the analysis approaches it the same way a traditional finance professional would evaluate any asset class — through risk-adjusted return metrics, cross-asset correlation, network valuation signals, and regulatory accounting treatment.
