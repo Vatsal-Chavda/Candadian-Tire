@@ -79,7 +79,6 @@ Validation & Results
 I tested the forecasts using MAPE and RMSE, which gave an overall accuracy of 91.8%. Based on the model, I projected 2025 revenue of $15.8B CAD.
 More importantly, the model explains why the numbers move the way they do, not just what the output is.
 
-
 A Quick Note on Data
 
 These projects were created independently for learning and portfolio purposes. The credit and portfolio data is hypothetical, while the Canadian Tire model uses publicly available financial disclosures.
@@ -103,4 +102,18 @@ Bitcoin delivers significantly higher returns than traditional asset classes ove
 
 A Quick Note on Data
 These projects were created independently for learning and portfolio purposes. The credit and portfolio data is hypothetical, while the Canadian Tire model uses publicly available financial disclosures. Bitcoin analysis uses market data from Yahoo Finance and CoinGecko's public API, and regulatory references from IASB, OSFI, and BIS publications.
+
+Project 5: Shopify Inc. (SHOP) — Full Investment Banking Analysis
+File: Shopify_IB_Analysis_VatsalChavda.xlsx
+This project replicates a full sell-side equity research engagement for Shopify Inc. (NYSE/TSX: SHOP), built independently to simulate the workflow of an investment banking analyst. Rather than stopping at a single valuation method, the model covers every component a real IB team would produce — from financial statement analysis and multi-methodology valuation through to M&A deal structuring and a formal investment recommendation.
+
+What I Built
+DCF valuation with a full FCF projection, WACC calculation, terminal value, and equity bridge, comparable company analysis benchmarking Shopify against 8 SaaS and e-commerce peers, precedent transaction analysis across 7 relevant M&A deals from 2013–2024, a hypothetical $8.4B acquisition of Klaviyo (KVYO) with revenue synergy modelling and accretion/dilution analysis, capital structure and debt capacity analysis, a WACC vs. terminal growth sensitivity table, a football field valuation chart, and a dedicated investment thesis sheet.
+
+Key Results
+MetricValueWACC9.73%DCF Price Target$36.81Comps Price Target$42.89Blended Price Target$48.71Current Market Price (Mar 2026)$87.20Implied Downside44%M&A — Klaviyo Deal Size$8.4BYear 1 Accretion / (Dilution)(16.2%)
+
+Investment Decision
+SELL — $48.71 blended price target derived from DCF (50%), trading comparables (30%), and precedent transactions (20%). At approximately 11x NTM Revenue, Shopify's current market price leaves no margin of safety under base case assumptions. The model identifies the specific conditions — FCF margin expansion above 22% and sustained 25%+ revenue growth — under which a re-rating to HOLD or BUY would be warranted.
+The model spans 11 fully connected sheets with 339 live formulas and zero errors. All data sourced from Shopify public filings (20-F), SEC EDGAR, Yahoo Finance, and Damodaran Online.
 
